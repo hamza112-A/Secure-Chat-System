@@ -1,0 +1,9 @@
+.env
+certs/
+*.pem
+*.key
+__pycache__/
+*.pyc
+venv/
+*.log
+transcripts/
